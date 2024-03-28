@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm N. Ricko Afriza A</h1>
 <h3 align="center"> Hanya NPC yang senantiasa mencari jati diri</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="afreizarz" /> </p>
 <img align="right" alt="Coding" width="250" height="400" src="FOTO - ricko.jpg">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afreiza21" alt="afreiza21" /></a> </p>
 
 - 🌱 I’m currently learning **Cousera, Dicoding**
 
@@ -35,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afreiza21&show_icons=true&locale=en" alt="afreiza21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afreiza21&" alt="afreiza21" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afreiza21" alt="afreiza21" /></a> </p>
